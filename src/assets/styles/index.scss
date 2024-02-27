@@ -1,0 +1,14 @@
+@use "./variables";
+@use "./base";
+@use "./flex";
+@use "./utils";
+@use "./debug";
+
+:root {
+  font-family: "Montserrat", "sans-serif";
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-text-size-adjust: 100%;
+}
